@@ -17,7 +17,7 @@ repository, run
    python scripts/generate_accelerated_bindings.py </path/to/mapd-core>/mapd.thrift
 
 
-The requires that Thrift is installed and on your PATH. Running it will update
+This requires that Thrift is installed and on your PATH. Running it will update
 two files, ``mapd/MapD.py`` and ``mapd/ttypes.py``, which can be committed to
 the repository.
 
